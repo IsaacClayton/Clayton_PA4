@@ -1,0 +1,7 @@
+a : 1
+phrase : 1
+test : 1
+repeat : 3
+this : 2
+is : 2
+to : 2
